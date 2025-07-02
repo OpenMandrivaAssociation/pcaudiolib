@@ -33,7 +33,7 @@ Group:          Development/C++
 Requires:       %{libname} = %{EVRD}
 Provides:       %{name}-devel = %{EVRD}
 
-%description -n %{libnamedev}
+%description -n %{devname}
 Development files for the Portable C Audio Library.
 
 #------------------------------------------------
